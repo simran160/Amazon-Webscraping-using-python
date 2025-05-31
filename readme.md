@@ -17,13 +17,13 @@ Install all dependencies with:
 `pip install -r requirements.txt`
 
 ## **Project Structure**
-'''
+```
 project-folder/
 │
 ├── Amazonscrape.ipynb       # Jupyter notebook with full workflow
 ├── Amazonscrapedataset.csv  # Example output data
 ├── requirements.txt           # List of dependencies
-└── README.md                  # This file'''
+└── README.md                  # This file```
 
 ## **How to Use**
 
@@ -59,14 +59,11 @@ The HTML structure of Amazon pages may change, requiring updates to the scraping
 
 ## 📚 **References**
 
-[BeautifulSoup Documentation]
-(https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-[Requests Documentation]
-(https://requests.readthedocs.io/en/latest/)
+[Requests Documentation](https://requests.readthedocs.io/en/latest/)
 
-[Alex Freberg's Youtube video]
-(https://www.youtube.com/watch?v=HiOtQMcI5wg)
+[Alex Freberg's Youtube video](https://www.youtube.com/watch?v=HiOtQMcI5wg)
 
 ## 📄 Full Documentation
 
