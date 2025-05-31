@@ -29,13 +29,14 @@ project-folder/
 ## **How to Use**
 
 ### 1. Clone the repository:
+```
+git clone https://github.com/yourusername/Amazon-Webscraping-using-python.git
 
-'''git clone https://github.com/yourusername/Amazon-Webscraping-using-python.git
-
-cd Amazon-Webscraping-using-python'''
+cd Amazon-Webscraping-using-python
+```
 
 ### 2. Install dependencies:
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 ### 3. Set your Amazon search URL and User-Agent:
 
