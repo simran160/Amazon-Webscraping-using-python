@@ -23,7 +23,8 @@ project-folder/
 ├── Amazonscrape.ipynb       # Jupyter notebook with full workflow
 ├── Amazonscrapedataset.csv  # Example output data
 ├── requirements.txt           # List of dependencies
-└── README.md                  # This file```
+└── README.md                  # This file
+```
 
 ## **How to Use**
 
