@@ -4,4 +4,4 @@ Building on Alex's example, I decided to extend the project by incorporating add
 
 After gathering the data, I exported it into a CSV file to enable further analysis. I performed basic cleaning on the dataset to ensure consistency and accuracy. Finally, I used **Tableau** to visualize the data and uncover specific insights, such as price trends, popular brands, and customer preferences.
 
-This project allowed me to deepen my understanding of web scraping, data handling in Python, and visualization techniques. Below is the detailed documentation for the project, including how I implemented each step.
+This project allowed me to deepen my understanding of web scraping, data handling in Python, and visualization techniques.
